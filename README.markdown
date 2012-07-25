@@ -1,6 +1,6 @@
 # PedroLamas.WP7.ServiceModel
 
-### [Official Site][1] - [@pedrolamas][2]
+### [Official Site/Blog][1] - [@pedrolamas][2]
 
 This the service communication layer I use in my own Windows Phone apps, along with [RestSharp][4] and [Json.net][5]
 
